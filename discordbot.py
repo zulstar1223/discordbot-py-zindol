@@ -34,4 +34,4 @@ async def 길들이기(ctx,*,text):
 @bot.command()
 async def 길들이기포인트(ctx, *, text):
     await ctx.send(tamingpoint.count(text))
-bot.run('MTA3OTIxMzI3MzE4ODEzOTA1OQ.Ga6s_-.W7MrS58VXuZhPGJcbJ56h4HphOvjG_ofmSPgMU')
+bot.run('MTA3OTIxMzI3MzE4ODEzOTA1OQ.GP9Zil.9HXMYQCY-U3IXOlaQJ6YgFKnlKwMwYyN7jTnlo')
